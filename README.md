@@ -34,5 +34,3 @@ Please refer to the specific platform directories for detailed installation inst
 ## Contact
 
 Repository Owner: dev-sudeep
-
-Project Link: https://github.com/dev-sudeep/CherryOS
