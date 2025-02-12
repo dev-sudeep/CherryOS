@@ -51,6 +51,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+## Note
+
+This project was formerly known as "CherryOS" during early development. The final and correct name is CherryBit.
+
 ## Contact
 
 Repository Owner: dev-sudeep
